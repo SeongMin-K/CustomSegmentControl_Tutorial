@@ -13,6 +13,7 @@
 		3EE44CCD27184CEC0074C4A5 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 3EE44CCB27184CEC0074C4A5 /* Main.storyboard */; };
 		3EE44CCF27184CEC0074C4A5 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 3EE44CCE27184CEC0074C4A5 /* Assets.xcassets */; };
 		3EE44CD227184CEC0074C4A5 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 3EE44CD027184CEC0074C4A5 /* LaunchScreen.storyboard */; };
+		3EE44CDA27184DC80074C4A5 /* MyCustomSegmentControl.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3EE44CD927184DC80074C4A5 /* MyCustomSegmentControl.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		3EE44CCE27184CEC0074C4A5 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		3EE44CD127184CEC0074C4A5 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		3EE44CD327184CEC0074C4A5 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		3EE44CD927184DC80074C4A5 /* MyCustomSegmentControl.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MyCustomSegmentControl.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -60,6 +62,7 @@
 				3EE44CC727184CEC0074C4A5 /* SceneDelegate.swift */,
 				3EE44CC927184CEC0074C4A5 /* ViewController.swift */,
 				3EE44CCB27184CEC0074C4A5 /* Main.storyboard */,
+				3EE44CD927184DC80074C4A5 /* MyCustomSegmentControl.swift */,
 				3EE44CCE27184CEC0074C4A5 /* Assets.xcassets */,
 				3EE44CD027184CEC0074C4A5 /* LaunchScreen.storyboard */,
 				3EE44CD327184CEC0074C4A5 /* Info.plist */,
@@ -138,6 +141,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				3EE44CDA27184DC80074C4A5 /* MyCustomSegmentControl.swift in Sources */,
 				3EE44CCA27184CEC0074C4A5 /* ViewController.swift in Sources */,
 				3EE44CC627184CEC0074C4A5 /* AppDelegate.swift in Sources */,
 				3EE44CC827184CEC0074C4A5 /* SceneDelegate.swift in Sources */,
